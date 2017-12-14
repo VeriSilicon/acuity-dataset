@@ -19,9 +19,9 @@ MNIST and INRIA Example (SQlite)
 > Pre-built Dataset for Mnist and INRIA
 
 ### Text format
-ILSVRC2012_VAL_SET (Text)
+ImageNet Exmaple (Text)
 
-> A small validation set of 1300 ILSVRC2012 images
+> ImageNet/dataset.txt contains example of the text dataset format
 
 ## SQLite Database Format
 
