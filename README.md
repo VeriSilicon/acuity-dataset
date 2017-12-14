@@ -4,7 +4,9 @@ This package contains information about the database format used by ACUITY
 for storing Training and Testing images. Sample scripts for ImageNet and 
 PASCAL VOC are also provided. 
 
-## Besides SQLite Dataset format, Text format is also supported by ACUITY
+## ACUITY supported dataset
+   > SQLite Dataset format described in this document
+   > Text format
 
 ## ImageNet Example
    > See ReadMe.md in ImageNet folder for details
@@ -14,8 +16,7 @@ PASCAL VOC are also provided.
 
 ## Database Format
 
-   Default/Default.dsx
-   Empty ACUITY dataset file, this is a simple sqlite database
+   Default.dsx is an empty ACUITY SQlite dataset file
 
     # Use sqlitebrowser to view Dataset schema and content
     sqlitebrowser Default.dsx
