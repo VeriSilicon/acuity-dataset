@@ -1,21 +1,23 @@
 # ACUITY Dataset Examples
 
-This package contains information about the d
-
-atabase format used by ACUITY
+This package contains information about the database format used by ACUITY
 for storing Training and Testing images. Sample scripts for ImageNet and 
 PASCAL VOC are also provided. 
 
 ## ACUITY supported dataset
 ### SQLite Database format
-   > ImageNet Example (SQlite)
-   >> See ReadMe.md in ImageNet folder for details
-   > PASCAL Example (SQlite)
-   >> See ReadMe.md in PASCAL folder for details
-### Text format
-   > ILSVRC2012_VAL_SET (Text)
-   >> A small validation set of 1300 ILSVRC2012 images
+ImageNet Example (SQlite)
+   
+> See ReadMe.md in ImageNet folder for details
+   
+PASCAL Example (SQlite)
+   
+> See ReadMe.md in PASCAL folder for details
 
+### Text format
+ILSVRC2012_VAL_SET (Text)
+
+> A small validation set of 1300 ILSVRC2012 images
 
 ## SQLite Database Format
 
@@ -74,6 +76,4 @@ PASCAL VOC are also provided.
      ./data/ILSVRC2012_val_00000347.JPEG, 472
      ./data/ILSVRC2012_val_00000355.JPEG, 260
      ./data/ILSVRC2012_val_00000361.JPEG, 300
-
-
 
