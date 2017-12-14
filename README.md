@@ -14,6 +14,10 @@ PASCAL Example (SQlite)
    
 > See ReadMe.md in PASCAL folder for details
 
+MNIST and INRIA Example (SQlite)
+
+> Pre-built Dataset for Mnist and INRIA
+
 ### Text format
 ILSVRC2012_VAL_SET (Text)
 
