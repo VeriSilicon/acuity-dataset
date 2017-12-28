@@ -56,7 +56,7 @@ def insert_val():
                 os.makedirs(dst)
             dst = os.path.join(dst, name + ext)
 
-            #shutil.copyfile(src, dst)
+            shutil.copyfile(src, dst)
             cursor = db.cursor()
             # Insert File into database
             cursor.execute("insert into files (name, ext) values (?,?)", (name, ext))
