@@ -77,7 +77,8 @@ ImageNet Exmaple (Text)
     Text Dataset format is a comma separated text file with each line containing
     the file location and label.
 
-     ./data/ILSVRC2012_val_00000347.JPEG, 472, 0 0 28 28, validate # Use for validate only, crop pad "0,0,28,28", lable is 472.
-     ./data/ILSVRC2012_val_00000355.JPEG, 260, 1 1 29 29, train    # Use for traine only, crop pad "1,1,29,29", lable is 260
-     ./data/ILSVRC2012_val_00000361.JPEG, 300, , train             # Use for train only, no crop pad, label is 300
+
+ ./data/ILSVRC2012_val_00000347.JPEG, 472, 0 0 28 28, validate # Use for validate only, crop pad "0,0,28,28", lable is 472
+ ./data/ILSVRC2012_val_00000355.JPEG, 260, 1 1 29 29, train    # Use for traine only, crop pad "1,1,29,29", lable is 260
+ ./data/ILSVRC2012_val_00000361.JPEG, 300, , train             # Use for train only, no crop pad, label is 300
 
