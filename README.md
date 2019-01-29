@@ -23,6 +23,11 @@ ImageNet Exmaple (Text)
 
 > ImageNet/dataset.txt contains example of the text dataset format
 
+ILSVRC2012_VAL_SET (Text)
+
+> ILSVRC2012_VAL_SET/dataset.txt contains a pre-built small validation set of images
+  from ILSVRC2012 ImageNet
+
 ## SQLite Database Format
 
    Default.dsx is an empty ACUITY SQlite dataset file
