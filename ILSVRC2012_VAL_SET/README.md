@@ -7,7 +7,7 @@ The images are prescaled to 227x227.
 
 Source: http://www.image-net.org/challenges/LSVRC/2012
 
-##Contents
+## Contents
     > dataset.txt 
     Dataset file with labels based on 1000 class. This is typically used by Caffe
 
